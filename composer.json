@@ -1,0 +1,22 @@
+{
+  "name": "generoi/magic-fields-2",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0",
+  "description": "Magic Fields 2 is a WordPress CMS plugin which is focused on improving the way how custom fields, post types and custom taxonomies are created in Wordpress.",
+  "homepage": "http://magicfields.org/",
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/magic-fields-team/Magic-Fields-2/issues"
+  },
+  "require": {
+    "php": ">=5.6.0",
+    "composer/installers": "~1.0"
+  },
+  "archive" : {
+    "exclude": [
+      ".gitignore"
+    ]
+  }
+}
